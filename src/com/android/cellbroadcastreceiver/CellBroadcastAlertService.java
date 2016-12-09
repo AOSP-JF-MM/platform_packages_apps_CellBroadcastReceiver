@@ -44,8 +44,6 @@ import android.telephony.SubscriptionManager;
 import android.telephony.CarrierConfigManager;
 import android.util.Log;
 
-import com.android.internal.telephony.PhoneConstants;
-
 import com.android.cellbroadcastreceiver.CellBroadcastAlertAudio.ToneType;
 import com.android.cellbroadcastreceiver.CellBroadcastOtherChannelsManager.CellBroadcastChannelRange;
 import com.android.internal.annotations.VisibleForTesting;
